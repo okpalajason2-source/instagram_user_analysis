@@ -1,0 +1,16 @@
+,urban_rural,income_level,count,percentage
+0,Rural,High,23225,9.99
+1,Rural,Low,46492,19.99
+2,Rural,Lower-middle,58239,25.05
+3,Rural,Middle,69714,29.98
+4,Rural,Upper-middle,34867,14.99
+5,Suburban,High,46231,9.95
+6,Suburban,Low,92772,19.97
+7,Suburban,Lower-middle,116301,25.03
+8,Suburban,Middle,139994,30.13
+9,Suburban,Upper-middle,69307,14.92
+10,Urban,High,85105,10.0
+11,Urban,Low,170472,20.04
+12,Urban,Lower-middle,212275,24.95
+13,Urban,Middle,255329,30.01
+14,Urban,Upper-middle,127573,15.0
